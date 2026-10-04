@@ -1,0 +1,17 @@
+[global]
+developmentMode = false
+
+[server]
+headless = true
+maxUploadSize = 5
+enableXsrfProtection = true
+
+[browser]
+gatherUsageStats = false
+
+[theme]
+primaryColor = "#3157D5"
+backgroundColor = "#FFFFFF"
+secondaryBackgroundColor = "#F4F6FC"
+textColor = "#25324A"
+font = "sans serif"
